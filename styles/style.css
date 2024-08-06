@@ -1,5 +1,8 @@
 :root {
     --cor-de-fundo: #6393f1;
+    --laranja: hsl(37, 87%, 62%);
+    --azul-degrade: #6393f1;
+
 }
 
 body{
