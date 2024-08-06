@@ -2,11 +2,8 @@
     --cor-de-fundo: #6393f1;
     --laranja: hsl(37, 87%, 62%);
     --azul-degrade: linear-gradient((#032362), (#1358e0));
-
 }
 
 body{
-
-background-color: var(--cor-de-fundo) #6393f1;
-
+    background-color: var(--cor-de-fundo) #6393f1;
 }
