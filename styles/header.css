@@ -1,5 +1,9 @@
 .cabeçalho__menu-hamburguer{
     background-image: url("../img/Menu.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-decoration: none;
 }
 
 .cabeçalho{
