@@ -22,14 +22,3 @@
 
 }
 
-.menu-lista {
-    display: none;
-    position: absolute;
-    top: 78%;
-    width: 80%;
-    padding: 0;
-}
-
-.container__botao:checked~.menu-lista {
-    display: block;
-}
