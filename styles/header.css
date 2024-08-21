@@ -22,7 +22,7 @@
 
 }
 
-.lista-menu {
+.menu-lista {
     display: none;
     position: absolute;
     top: 78%;
@@ -30,7 +30,7 @@
     padding: 0;
 }
 
-.container-botao:checked~.lista-menu {
+.container__botao:checked~.menu-lista {
     display: block;
     text-decoration: none;
 }
