@@ -32,5 +32,4 @@
 
 .container__botao:checked~.menu-lista {
     display: block;
-    text-decoration: none;
 }
