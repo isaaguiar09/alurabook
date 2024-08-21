@@ -21,3 +21,16 @@
     padding: 0.5em;
 
 }
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 78%;
+    width: 80%;
+    padding: 0;
+}
+
+.container-botao:checked~.lista-menu {
+    display: block;
+    text-decoration: none;
+}
