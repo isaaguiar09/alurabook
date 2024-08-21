@@ -20,7 +20,9 @@
     align-items: center;
 }
 
-.container_imagem {
+/* Classe abaixo escrito errado. Certo: container__imagem */
+
+.container__imagem {
     padding: 0.5em;
 
 }
